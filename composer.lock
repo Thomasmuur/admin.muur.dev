@@ -1,0 +1,74 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "e5776292adab13c3dfff57b613601a04",
+    "packages": [
+        {
+            "name": "davaxi/vcalendar",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/davaxi/VCalendar.git",
+                "reference": "f93840377aae93eca419be820455cbf165bd7dbd"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/davaxi/VCalendar/zipball/f93840377aae93eca419be820455cbf165bd7dbd",
+                "reference": "f93840377aae93eca419be820455cbf165bd7dbd",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "require-dev": {
+                "codeclimate/php-test-reporter": "dev-master",
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Davaxi\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "David Patiashvili",
+                    "email": "stratagem.david@gmail.com",
+                    "homepage": "https://www.linkedin.com/in/davaxi",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Francesco Lovecchio",
+                    "email": "francescolovecchio97@gmail.com",
+                    "homepage": "https://www.linkedin.com/in/francescolovecchio/",
+                    "role": "Developer"
+                }
+            ],
+            "description": "PHP Class to generate VCalendar (ics) file",
+            "keywords": [
+                "calendar",
+                "event",
+                "file",
+                "ics",
+                "outlook",
+                "php"
+            ],
+            "time": "2018-06-17T09:10:40+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

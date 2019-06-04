@@ -1,0 +1,5 @@
+{
+    "require": {
+        "davaxi/vcalendar": "^1.0"
+    }
+}
